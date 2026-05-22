@@ -1,0 +1,20 @@
+/* Baseline spatial alignment for all menu items */
+.sidebar nav .sidebar-item {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Force text layout engine to strictly obey lowercase constraints */
+.sidebar nav a.sidebar-link span.menu-text {
+  text-transform: lowercase !important;
+}
+
+/* Target the list wrapper containing the 'creative' link and drop a severe bottom margin */
+.sidebar nav li.sidebar-item:has(a[href*="creative.html"]) {
+  margin-bottom: 2.5rem !important;
+}
+
+/* Target the list wrapper containing the 'academic' link and drop a severe bottom margin */
+.sidebar nav li.sidebar-item:has(a[href*="academic.html"]) {
+  margin-bottom: 2.5rem !important;
+}

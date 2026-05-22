@@ -1,0 +1,15 @@
+{
+  "hash": "c814a2df835d100908cb96c72b1b0932",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My Site\"\n---\n\nSome Essays, Articles, Poems/Creative Works on disability and philosophy.\n\nI do work on academic content too. I am interested in Neurophilosophy.\n\nI have two severe-profound disabilities, acquired aged 10 (2009, hearing) and 24 (2024, brain).\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

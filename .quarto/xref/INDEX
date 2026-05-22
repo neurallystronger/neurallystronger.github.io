@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "4849a620"
+  },
+  "about.qmd": {
+    "about.html": "b0872db2"
+  },
+  "disabilities.qmd": {
+    "disabilities.html": "b792907b"
+  },
+  "academic.qmd": {
+    "academic.html": "f1cd6fd3"
+  },
+  "creative.qmd": {
+    "creative.html": "04ddcd54"
+  },
+  "articles.qmd": {
+    "articles.html": "14769ce5"
+  },
+  "essays.qmd": {
+    "essays.html": "f93722ca"
+  },
+  "reviews.qmd": {
+    "reviews.html": "e24f4be9"
+  }
+}

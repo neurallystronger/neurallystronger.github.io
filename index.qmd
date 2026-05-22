@@ -1,0 +1,17 @@
+---
+title: ""
+---
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](picture.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+I publish Essays, Articles, Poems/Creative Works on disability and philosophy here.
+
+Academic content too. I'm interested in Neurophilosophy; my degree is in Economics.
+
+I have **two** severe-profound disabilities, acquired aged 10 (2009, ears) and 24 (2024, brain).
+:::
+:::::

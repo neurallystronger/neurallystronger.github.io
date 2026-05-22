@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "neurallystronger"
+  
+  
+  # Global footer mapping
+  page-footer:
+    center: "built with quarto • copyright © 2024-2026 dmitry petrov • all rights reserved."
+
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
+      - text: "essays"
+        file: essays.qmd
+      - text: "articles"
+        file: articles.qmd
+      - text: "creative"
+        file: creative.qmd
+        
+      - text: "&thinsp;"
+      
+      - text: "academic work"
+        file: academic.qmd
+      - text: "reviews"
+        file: reviews.qmd
+        
+      - text: "&thinsp;"
+      
+      - text: "my two disabilities"
+        file: disabilities.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+    toc: false
+    mainfont: '"Times New Roman", Times, Georgia, serif'
