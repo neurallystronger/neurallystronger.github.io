@@ -1,0 +1,8 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: neurallystronger\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: false\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\Users\\moonz\\AppData\\Local\\Programs\\Quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  theme:\n    light: cosmo\n  mainfont: '\"Times New Roman\", Times, Georgia, serif'\n  title: ''\n  \n"]
+[1,"Output created: ..\\docs\\disabilities\\index.html\n\n"]
+[1,"Terminating existing preview server...."]
+[1,"DONE\n\nPreparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:3069/disabilities/index.html\nListening on http://127.0.0.1:3069/\n"]
+[1,"GET: /disabilities/index.html\n"]
