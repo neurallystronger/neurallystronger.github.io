@@ -4,8 +4,11 @@ project:
 
 website:
   title: "neurallystronger"
+  favicon: assets/icon.ico
+  image: assets/icon.ico
   page-footer:
     center: "github pages using quarto • copyright © 2026 dmitry petrov • all rights reserved."
+  
   sidebar:
     style: "docked"
     search: false
@@ -18,20 +21,20 @@ website:
         file: creative/index.qmd
         
       - text: "&thinsp;"
-      
+        
       - text: "academic work"
         file: academic/index.qmd
       - text: "reviews"
         file: reviews/index.qmd
         
       - text: "&thinsp;"
-      
+        
       - text: "my two disabilities"
         file: disabilities/index.qmd
 
 format:
   html:
-    theme:
-      light: cosmo
+    theme: cosmo
+    css: styles.css
     toc: false
     mainfont: '"Times New Roman", Times, Georgia, serif'

@@ -1,0 +1,13 @@
+i.bi.bi-layout-text-sidebar-reverse::before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url('assets/icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+figcaption {
+  text-align: center;
+}
