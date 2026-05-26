@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "neurallystronger"
   favicon: assets/icon.ico
   image: assets/icon.ico
   page-footer:
     center: "github pages using quarto • copyright © 2026 dmitry petrov • all rights reserved."
   
   sidebar:
+    id: main-nav
+    title: "neurallystronger"
     style: "docked"
     search: false
     contents:

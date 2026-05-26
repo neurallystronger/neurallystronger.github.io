@@ -1,8 +1,8 @@
 i.bi.bi-layout-text-sidebar-reverse::before {
   content: "";
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 32px;
+  height: 32px;
   background-image: url('assets/icon.png');
   background-size: contain;
   background-repeat: no-repeat;
@@ -10,4 +10,10 @@ i.bi.bi-layout-text-sidebar-reverse::before {
 
 figcaption {
   text-align: center;
+}
+
+.small-text {
+  font-size: 0.8em; /* % of your baseline font size */
+  line-height: 1.4;   /* Tighten line height to match the smaller text */
+  color: #555;        /* Optional: slightly lighter gray to reduce visual noise */
 }
