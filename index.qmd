@@ -9,12 +9,12 @@ sidebar: main-nav
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-My writing is in neuroscience, philosophy, AI, and disability fields.
+Hi! I write about **philosophy**, **neuroscience**, **disability**, **AI**.
 
-Academic content too. I'm interested in Neurophilosophy; my degree is in Economics.
+Academic --- I'm interested in **Neurophilosophy**; my degree is in **Economics**.
 
-I have **two** severe-profound disabilities, acquired aged 10 (2009, ears) and 24 (2024, brain).
+I have two severe-profound disabilities, acquired aged 10 (2009, ears) and 24 (2024, brain).
 
-A lot here is about ***TBI*** rehabilitation -- applicable to mTBI's/concussions, some carryover to SCI -- I embrace relevant heavier discussions as I had a Grade 3 Diffuse Axonal Injury.
+A lot here is about **TBI** rehabilitation, applicable to **mTBI**'s/concussions, some carryover to **SCI**. I embrace relevant heavier discussions as I had a **Grade 3 Diffuse Axonal Injury**.
 :::
 :::::
