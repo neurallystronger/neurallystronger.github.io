@@ -3,26 +3,24 @@ title: "Articles"
 ---
 
 
-I have sketches/drafts in Docs I just need to finish writing:
+I have draft(s) I just need to finish writing:
 
-Important:
+Article 1, *My Cognitive Tests: WAIS, RBANS x2 (90, 129, 172 days post-DAI 3)*
 
-***Introduction to Diffuse Axonal Injury (DAI)***
+Article 2, *My Three Appreciated Supplements (why they work)*
 
-***DAI Further Reading Notes***
+Article 3, *Sleep: a Cheatcode*
 
-*My Cognitive Tests: WAIS, RBANS x2 (90, 129, 172 days post-DAI 3)*
+___
 
-*Sleep: a Cheatcode*
+I need to think some more:  
+
+*Paradoxically worse for mild than severe TBI? Long-term outcomes*
 
 *Immediate Habits for Cognitive Recovery*
 
 *Further Cognition Improvement*
 
-*My Three Appreciated Supplements*
-
-*Dimensionality Reduction in Neural Dynamics: the Tensor Rank of the Brain*
-
-*Paradoxically worse for mild than severe TBI? Long-term outcomes*
+*The Tensor Rank of the Brain: Understanding dimensionality reduction in neural dynamics*
 
 
