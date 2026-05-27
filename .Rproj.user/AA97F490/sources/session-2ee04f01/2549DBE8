@@ -3,7 +3,7 @@
     "path": "C:/Users/moonz/Desktop/Dmitry Petrov/Academics/Philosophy/neurallystronger/Quarto/neurallystronger/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2570807738",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1779530537189.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "298:0",
-        "cursorPosition": "17,86",
+        "cursorPosition": "17,125",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1779848976,
+    "lastKnownWriteTime": 1779857579,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1779848976735,
+    "last_content_update": 1779857579547,
     "read_only": false,
     "read_only_alternatives": []
 }

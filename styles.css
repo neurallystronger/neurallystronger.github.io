@@ -17,3 +17,19 @@ figcaption {
   line-height: 1.4;   /* Tighten line height to match the smaller text */
   color: #555;        /* Optional: slightly lighter gray to reduce visual noise */
 }
+
+/* Color classes for reviews */
+.review-yeah {
+  color: #2e7d32; /* A strong, legible green */
+  font-weight: bold;
+}
+
+.review-hmm {
+  color: #f2b41e; /* A readable orange/yellow */
+  font-weight: bold;
+}
+
+.review-what {
+  color: #d32f2f; /* A strong, legible red */
+  font-weight: bold;
+}
