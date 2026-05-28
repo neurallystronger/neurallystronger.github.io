@@ -2,16 +2,18 @@
 title: "Articles"
 ---
 
-Article 1, *You need to sleep more* (soon)  
-[Peerless. How to sleep more.]{.small-text}
+### Let's talk (applied) Neuroscience.
 
-Article 2, *My Cognitive Tests: WAIS, RBANS x2* (soon)  
+Article 1, *How to sleep*  
+[If you only read one thing, this is it.]{.small-text}
+
+Article 2, *Cognitive Tests: WAIS, RBANS x2*  
 [90, 129, 172 days post-DAI 3, respectively.]{.small-text}
 
-Article 3, *Magnesium, Creatine, Decosahexaenoic Acid (Omega-3)* (soon)  
+Article 3, *Magnesium, Creatine, Decosahexaenoic Acid (Omega-3)*  
 [Fatigue, Brain fog, Myelin (Glymphatic), respectively.]{.small-text}
 
-Article 4, *Parinaud's, Neuroophtalmology* (soon)  
+Article 4, *Parinaud's, Neuroophtalmology*  
 [If it wasn't apparent from the site's icon, I have Dorsal Midbrain Syndrome.]{.small-text}
 
 

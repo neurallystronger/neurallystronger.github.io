@@ -4,7 +4,7 @@ title-block-style: none
 sidebar: main-nav
 ---
 
-Written in June 2021, when I was visiting a park around Wenatchee, WA. I woke up early and spent the daybreak by the water, writing.
+June 2021, I was visiting a park around Wenatchee, WA. I woke up early and spent the daybreak by the water, writing.
 
 I was 21, aimless. 2-3 months after writing *Luna*, I found my first serious relationship and returned to education. A complete 180.
 
@@ -59,7 +59,7 @@ The poem helped me understand my (first) severe disability.
 
 ## English translation {#en}
 
-The words/meaning are identical to the original. In both poems, each line's last word maps one-to-one. 2026.
+Meanings of the last phrases each line map 100%, the whole text maps 99%; meaning over poetic structures. 2026.
 
 ::: {.small-text}
 the Moon, 2021
@@ -82,7 +82,7 @@ I know, I talked myself, but heard a moaning echo.
 Against advice I took off to, once again,  
 Converse with the Moon and my night to her give;  
 *And whispers to me the Moon everything I know already*,  
-I gave her shelter, *I took in the Moonlight*.  
+I gave her shelter, *I took the Moonlight*.  
 
 I look into the Moon's eyes, like a dream, and the gaze's whiteness  
 Contains a mysterious cyclone of emotions out of place.  
@@ -106,8 +106,8 @@ The Moon. Again alone, for years lasts a day.
 
 **A hopeless love poem. *What is not to love about [life]{.underline}?* Life, the poem bitterly states, is a moon seeing people dreaming. Never the sun, never the wakened people. That's what it was, what it is, and what it will be to me.** Maybe for you it's different.
 
-Original rhymes extensively: ABAB CDCD EFEF xxxx GHGH IJIJ KLKL. The middle stanza was accidental, it has no intentional rhyme, but I kinda like it the most. The *I took in the Moonlight* one.
+Original rhymes extensively: ABAB CDCD EFEF xxxx GHGH IJIJ KLKL. The middle stanza was accidental and has no rhyme, but I kinda like it the most. The *I took the Moonlight* one.
 
-When I say rhymes, I mean *rhymes*. The very **first stanza**'s A-rhyme sets a tone: BIE-LEEY LIKH / nyeBIE-SNEEY BRIKGH (white face / heavenly brig). Or for example, **stanza 2** has SNAH / pawlawtNAH (decl. sleep dream, canvas) and **stanza 3** follows with a mid-line sood'BAH (fate). Similarly, **stanza 3** has LYET / otVYET (years, answer) and **stanza 4** immediately mid-lines soVYETam, which is a declensed soVYET (advice).
+When I say rhymes, I mean **rhymes**. The very **first stanza**'s A-rhyme sets a tone: BIE-LEEY LIKH / nyeBIE-SNEEY BRIKGH (white face / heavenly brig). Or for example, **stanza 2** has SNAH / pawlawtNAH (decl. sleep dream, canvas) and **stanza 3** follows with a mid-line sood'BAH (fate). Similarly, **stanza 3** has LYET / otVYET (years, answer) and **stanza 4** immediately mid-lines soVYETam, which is a declensed soVYET (advice) -- everyone on Earth knows this word, but most Engl-speakers stress it wrong.
 
 Appreciated flows thus exist throughout the original text.
