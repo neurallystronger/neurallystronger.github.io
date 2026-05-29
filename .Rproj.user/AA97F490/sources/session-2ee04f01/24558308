@@ -3,7 +3,7 @@
     "path": "C:/Users/moonz/Desktop/Dmitry Petrov/Academics/Philosophy/neurallystronger/Quarto/neurallystronger/disabilities/index.qmd",
     "project_path": "disabilities/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "340345421",
     "contents": "",
     "dirty": false,
     "created": 1779530806983.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,0",
-        "scrollLine": "0",
+        "cursorPosition": "100,175",
+        "scrollLine": "86",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "8190:2942.933349609375"
     },
     "folds": "",
-    "lastKnownWriteTime": 1779943858,
+    "lastKnownWriteTime": 1780053397,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1779943858337,
+    "last_content_update": 1780053397706,
     "read_only": false,
     "read_only_alternatives": []
 }
