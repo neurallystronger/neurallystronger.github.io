@@ -49,5 +49,11 @@
   },
   "essays/essay1.qmd": {
     "essay1.html": "741d3849"
+  },
+  "creative/work1/index.qmd": {
+    "index.html": "aa19a97e"
+  },
+  "essays/essay1/index.qmd": {
+    "index.html": "d1781122"
   }
 }

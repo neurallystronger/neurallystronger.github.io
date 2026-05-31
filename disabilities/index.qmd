@@ -21,9 +21,9 @@ I was given the choice to stay behind, as I was already somewhat old (13). I mov
 
 So I barely graduated from High School, got into a satellite campus of University of Washington, and promptly dropped out within the first quarter. I spent three years (coinciding with the pandemic) not doing much, just some nighttime labor (*even at the entry level, a customer-facing position was nearly impossible, managerial duties a pipe dream*). In September 2021, I returned to a Community College. My grades were high, I retook the SAT and got a 1520/1600 compared to the 1390 I got 4 years ago in HS (+100/170 engl, +30/40 math); within a year I was directly transferring into the Economics program of University of Washington, Seattle.
 
-Still, the problem of *hearing* remained and was much more accentuated in a huge city university compared to a small community college. Abstractly, **communication breeds motivation**. In life, if you aren’t motivated to succeed, you get left behind. And every passing conversation, every auditory stimuli, every engaged tone, nevermind cooperative studying – they subtly nudge you to be better. Podcasts and audio recordings; every remark that was judged to not be important in the slides but said audibly – what a joke. I lacked this motivation, and it spills into attendance, work, effort; into everything. While I discovered and was the only undergrad attending PhD seminars in Micro, Macro, Dev. Econ and Econometrics, I struggled to anchor my hearing motivation, e.g., to pass a Real Analysis course.
+Still, the problem of *hearing* remained and was much more accentuated in a huge city university compared to a small community college. Abstractly, **communication breeds motivation**. In life, if you aren’t motivated to succeed, you get left behind. And every passing conversation, every auditory stimuli, every engaged tone, nevermind cooperative studying – they subtly nudge you to be better. Podcasts and audio recordings; every remark that was judged to not be included in the slides but said audibly – what a joke. I lacked this motivation, and it spills into attendance, work, effort; into everything. While I discovered and was the only UW undergrad attending PhD seminars in Micro, Macro, Dev. Econ and Econometrics (23 total), I struggled to anchor my hearing motivation, e.g., to pass a Real Analysis course.
 
-**So, my (and any HoH, d, D person) [extrinsic]{.underline} motivation is restrained via the auditory dimension. However, a ewstrained person might have more avenues for [intrinsic]{.underline} motivation:**
+**So, my (and any HoH, d, D person) [extrinsic]{.underline} motivation is restrained via the auditory dimension. However, a restrained person might have more avenues for [intrinsic]{.underline} motivation:**
 
 ## Critical Polytrauma (image spoilered) - Difficult Read {#polytrauma}
 
@@ -43,7 +43,7 @@ So, my lung was lacerated on impact and I developed Pneumonia. My muscles broke 
 ![May 2024 - strongest solar storm since 1989. E.g., GLE74 happened at 6:21pm PST, 6 hours after I fell. Whoops.](../assets/nsfw.jpg){fig-align="center" width="75%"}
 :::
 
-The mechanical closed impact landed front-center (biasing the right side) near the top of my head and traveled deep into my brain; the documented micro-shearing reached the brainstem. This is called a Grade 3 Diffuse Axonal Injury. I provide more details in the next section, Living with a Grade 3 DAI, as reported by imaging.
+The mechanical closed impact landed front-center (biasing the right side) near the top of my head and traveled deep into my brain; the documented micro-shearing reached the brainstem. This is called a Grade 3 Diffuse Axonal Injury. I provide more details in the next section, *Improvement under a Grade 3 DAI*, as reported by imaging.
 
 Camino was removed 25 hours into stay, extubated 71 hours in (GCS 13 already, V lowest), was conscious and stable enough to be transferred to Acute Care on day 4, Internal Medicine on day 8, Rehab on day 20, and was sent home on day 27… This timeline doesn’t count the first \~24 hours in the elements and is \*highly, highly, highly improbable\*. I am not exaggerating. Also, I am fortunate my polytrauma wasn’t in any serious way open.
 
@@ -104,6 +104,10 @@ I pray (*and I’m not even religious!*) such a neurological trauma does NOT hap
 
 Thank you for visiting my site.
 
-[^1]: **Euglycemic/Starvation Ketoacidosis** might have been a needed defensive mechanism. Intuition: when neuronal structures popped apart (some instantly, some in hours-days that followed), they flooded the brain with ions, etc. Energy (glucose) went into restoration overdrive, and utilization of alternative energy sources was welcome. I am not a chemist. Keywords would be: "**ketones and brain injury**". FWIW, this is about the "extreme" (where my organism efficiently entered and exited ketone use). [I value carbs in baseline function in strongest terms possible]{.underline}. You can find compromised info online that generalizes and makes unsupported claims that complete glucose avoidance helps the brain - wrong. Though, [more glucose should be followed with more cognitive or physical activity]{.underline}. **Do not let your cells develop insulin resistance**.
+::: {style="text-align: right;"}
+— dvp, 2026
+:::
 
-[^2]: **Full Care Timeline:** the first part of my initial essay, [Induction, Metaphysical Fears, and the Gradient of Reality](/essays/essay1.html), discusses why delirium was important.
+[^1]: **Euglycemic/Starvation Ketoacidosis** might have been a needed defensive mechanism. Intuition: when neuronal structures popped apart (some instantly, some in hours-days that followed), they flooded the brain with ions, etc. Energy (glucose) went into restoration overdrive, and utilization of alternative energy sources was welcome. I am not a chemist. Keywords would be: "**ketones and brain injury**". FWIW, this is about the "extreme" (where my organism efficiently entered and exited ketone use). [I value carbs in *baseline* function in strongest terms possible]{.underline}. You can find compromised info online that generalizes and makes unsupported claims that complete glucose avoidance helps the brain - wrong. Though, [more glucose should *always* be followed with more cognitive or physical activity]{.underline}. **Do not let your cells develop insulin resistance**.
+
+[^2]: **Full Care Timeline:** the first part of my first, clumsy essay, [Induction, Metaphysical Fears, and the Gradient of Reality](/essays/essay1.html), discusses why delirium was important.

@@ -15,10 +15,12 @@ Academic --- I'm interested in **Neurophilosophy**; my degree is in **Economics*
 
 I lost 70-80 dB of my hearing when I was 10; sheared my brainstem when I was 24. Yikes!
 
-A lot here is about **neurorehabilitation**.  
-Very relevant for: Long Covid, mild Traumatic Brain Injury / Concussion, Neurodegenerative Diseases, Diffuse Axonal Injury.  
-SCIs, ABIs, Strokes, Tumors - some wisdom.
+A lot here is about **neurorehabilitation** ([articles](/articles/) particularly).  
+Very relevant for: Long Covid, mild Traumatic Brain Injury / Concussion, Neurodegenerative Diseases, ABIs, Diffuse Axonal Injury.  
+SCIs, Strokes, Tumors - less confidence.
 
-Unfittingly for the 21st century, try to concentrate and slowly think through the content you read. 
+::: {style="text-align: right;"}
+--- dvp, 2026
+:::
 :::
 :::::

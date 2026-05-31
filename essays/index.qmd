@@ -3,8 +3,8 @@ title: "Essays"
 ---
 ### Let's talk Philosophy.
 
-Essay 1, *[Induction, Metaphysical Fears, and the Gradient of Reality](essay1.qmd)*  
-[We all had psychosis and seriously considered a *very bad thing*. Right? **And then we all kind of reasoned through it on our own**.]{.small-text}
+Essay 1, [*Induction, Metaphysical Fears, and the Gradient of Reality*](essay1/)  
+[We all had psychosis and seriously contemplated a *very bad thing*. Right? **And then we all kind of reasoned through it on our own**.]{.small-text}
 
 ____
 
