@@ -1,26 +1,26 @@
 {
-    "id": "A9774975",
+    "id": "4A3FF11F",
     "path": "C:/Users/moonz/Desktop/Dmitry Petrov/Academics/Philosophy/neurallystronger/Quarto/neurallystronger/articles/index.qmd",
     "project_path": "articles/index.qmd",
     "type": "quarto_markdown",
-    "hash": "779232704",
+    "hash": "1438589834",
     "contents": "",
     "dirty": false,
-    "created": 1779533832040.0,
+    "created": 1780293635857.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "40,52",
+        "cursorPosition": "11,35",
         "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1780188077,
+    "lastKnownWriteTime": 1780298398,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1780188077131,
+    "last_content_update": 1780298398951,
     "read_only": false,
     "read_only_alternatives": []
 }

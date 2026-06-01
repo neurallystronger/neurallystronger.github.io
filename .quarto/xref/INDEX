@@ -55,5 +55,11 @@
   },
   "essays/essay1/index.qmd": {
     "index.html": "d1781122"
+  },
+  "articles/article1/index.qmd": {
+    "index.html": "b2e38a11"
+  },
+  "articles/article2/index.qmd": {
+    "index.html": "df791e74"
   }
 }
