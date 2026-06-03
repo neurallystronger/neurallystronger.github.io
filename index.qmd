@@ -11,8 +11,8 @@ sidebar: main-nav
 ::: {.g-col-12 .g-col-md-8}
 Hi! I write about **philosophy**, **neuroscience**, **disability**, **AI**.
 
-Academic --- I'm interested in **Neurophilosophy**; my degree is in **Economics**.  
-[e.g., Dopamine being a prerequisite for *Action*.]{.small-text}
+Academic --- I'm interested in **Neurophilosophy**\*; my degree is in **Economics**.  
+[\* - e.g., Dopamine being a prerequisite for *Action*.]{.small-text}
 
 I lost 70-80 dB of my hearing when I was 10; sheared my brainstem when I was 24. Yikes!
 

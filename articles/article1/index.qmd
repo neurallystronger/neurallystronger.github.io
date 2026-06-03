@@ -6,19 +6,20 @@ sidebar: main-nav
 
 ___
 
-WORK-IN-PROGRESS
+[WORK-IN-PROGRESS]{.review-what}
 
 ___
 
-::: {.callout-tip collapse="false"}
-## I motivate this article:
-
-*When I was discharged June 6, I had to be in a wheelchair. I couldn't balance. I struggled undressing and stepping over the bathtub to shower. I could not walk the (actual) curb. I fell standing on one leg. This is expected with a devastated cerebral peduncle. A month later, I went to **sleep**; immediately upon waking up, without even getting out of bed -- the moment my eyes opened -- I was sure I could walk the curb. I just knew. I urged family to provide backup and we went to test. Yes, I could. My outpatient Physical Therapy only had four 1 hour visits lasting mid-July to mid-August.*
-:::
 
 I seem to naturally sleep productively.  
 But not everyone *sleeps productively* (quality), and not everyone *gets a lot of sleep* (quantity). I repeat -- I separate the two.  
 Let's help those people. Let's talk sleep.
+
+::: {.callout-tip collapse="true"}
+## I motivate this article:
+
+*When I was discharged June 6, I had to be in a wheelchair. I couldn't balance. I struggled undressing and stepping over the bathtub to shower. I could not walk the (actual) curb. I fell standing on one leg. This is expected with a devastated cerebral peduncle. A month later, I went to **sleep**; immediately upon waking up, without even getting out of bed -- the moment my eyes opened -- I was sure I could walk the curb. I just knew. I urged family to provide backup and we went to test. Yes, I could. My outpatient Physical Therapy was only four 1 hour visits lasting mid-July to mid-August.*
+:::
 
 ___
 
