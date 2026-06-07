@@ -21,7 +21,7 @@ Very relevant for: Long Covid, mild Traumatic Brain Injury / Concussion, Neurode
 SCIs, Strokes, Tumors - less confidence.
 
 ::: {style="text-align: right;"}
---- dvp, 2026
+--- dvp
 :::
 :::
 :::::

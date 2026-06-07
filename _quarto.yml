@@ -16,16 +16,16 @@ website:
     contents:
       - text: "essays"
         file: essays/index.qmd
-      - text: "articles"
+      - text: "articles (WIP)"
         file: articles/index.qmd
       - text: "creative"
         file: creative/index.qmd
         
       - text: "&thinsp;"
         
-      - text: "academic work"
+      - text: "academic work (WIP)"
         file: academic/index.qmd
-      - text: "reviews"
+      - text: "reviews (WIP)"
         file: reviews/index.qmd
         
       - text: "&thinsp;"
