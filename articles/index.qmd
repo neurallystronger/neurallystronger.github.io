@@ -13,7 +13,7 @@ Article 2, [*How to eat*](article2/)
 [Nutrition is how we continue living -- this question shapes lives.]{.small-text}
 
 Article 3, *Magnesium, Creatine, Decosahexaenoic Acid (Omega-3)*  
-[Fatigue, Brain fog, Myelin (Glymphatic), respectively.]{.small-text}
+[Fatigue/Sleep, Brain fog, Nerves/Sleep, respectively.]{.small-text}
 
 ___
 
