@@ -31,6 +31,7 @@ ___
 
 ### Abstract
 
-Precisely this friction point acts as a logistic mechanism revealing a significant result *(N=314, p=0.02247, CI=positive)* and invites digging deeper into econometric, psychological, and behavioral considerations -- to which I gladly oblige.
+When an undergraduate is faced with a decision to enroll into a T7 economics department, **female** seniors choose to enroll at 2.7x times **male** seniors do (2021-2022 admission cohorts, $N=314$, $p=0.02247$, *CI=entirely positive*). Why? I discuss econometric and behavioral explanations.
 
+[I wrote up this LaTeX PDF in 2026 around 2 years after my trauma; I do continue working on it.]{.small-text}
 :::

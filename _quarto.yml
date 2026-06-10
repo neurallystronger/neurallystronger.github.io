@@ -14,9 +14,9 @@ website:
     style: "docked"
     search: false
     contents:
-      - text: "essays"
+      - text: "longer writing"
         file: essays/index.qmd
-      - text: "articles"
+      - text: "shorter writing"
         file: articles/index.qmd
       - text: "creative"
         file: creative/index.qmd
