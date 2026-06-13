@@ -4,8 +4,10 @@ sidebar: main-nav
 ---
 
 Work 1: [*Luna*, 2021, poem](work1/) about *sudden* disability.  
-[My best work **EVER**]{.underline}. *It is about longing and the process of acceptance*.
+[[My best work **EVER**]{.underline}. *It is about longing and the process of acceptance*.]{.small-text} Translated Russian.
+
+Work 2: [*Shadow*, 2021, poem](work2/).  
+[Written 5 days before Luna. *I motivate Luna*.]{.small-text} Shakespearean Sonnet, English.
 
 ___
 ___
-
