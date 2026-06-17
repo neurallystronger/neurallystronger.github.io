@@ -14,9 +14,10 @@ website:
     style: "docked"
     search: false
     contents:
-      - text: "longer writing"
+      - text: "WRITING:"
+      - text: "longer"
         file: essays/index.qmd
-      - text: "shorter writing"
+      - text: "shorter"
         file: articles/index.qmd
       - text: "creative"
         file: creative/index.qmd

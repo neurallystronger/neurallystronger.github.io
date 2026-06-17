@@ -4,20 +4,20 @@ title: "Articles"
 
 ### Let's talk (applied) Neuroscience.
 
-Article 1, [*How to sleep*](article1/)  
+Text 1, [*How to sleep*](article1/)  
 **If you only read one thing, this is it.**
 
 
 
-Article 2, [*How to eat*](article2/)  
+Text 2, [*How to eat*](article2/)  
 [Nutrition is how we continue living -- this question shapes lives.]{.small-text}
 
-Article 3, *Magnesium, Creatine, Decosahexaenoic Acid (Omega-3)*  
+Text 3, *Magnesium, Creatine, Decosahexaenoic Acid (Omega-3)*  
 [Fatigue/Sleep, Brain fog, Nerves/Sleep, respectively.]{.small-text}
 
 ___
 
-Article 4, *Cognitive Tests: WAIS, RBANS x2*  
+Text 4, *Cognitive Tests: WAIS, RBANS x2*  
 [90, 129, 172 days post-DAI 3, respectively.]{.small-text}
 
 ___
