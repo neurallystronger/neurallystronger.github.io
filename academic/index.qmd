@@ -7,7 +7,7 @@ pagetitle: "Academic Work"
 
 ### Working Papers
 
-***On P-Zombies, Synaptogenesis, and Dopaminergic Degeneration*** \[PDF later, writing sample\] *(2026)*  
+***On P-Zombies, Synaptogenesis, and Dopaminergic Degeneration*** \[PDF later\] *(2026)*  
 *Philosophy. Tags: Chalmers, 1996 ; Multiple Realizability ; Action ; Parkinson's Disease*  
 [**Background**]{.underline}: Reading Chalmers is *sometimes* eyebrow-raising and *always* thought-provoking.  
 [**Motivating**]{.underline}: There's not much philosophical zombie discussion relating to trauma and this continuation was immediately interesting to me; as an innocent hobbyist I do not hold a side in the consciousness debate (yet) -- I am seeing where my wandering mind takes me.  
@@ -16,7 +16,7 @@ pagetitle: "Academic Work"
 
 ### Abstract
 
-*in progress*.
+A philosophical zombie (p-zombie) "lacking *conscious* experience" is canonically presumed to be "atom for atom" similar to its human counterpart, yet little neurophilosophical elaboration exists about the p-zombie's temporal brain potential, i.e., its neuroplasticity ability. I propose a fruitful extension to the p-zombie puzzle: 1) "Changes in the Brain" reframes the discussion in terms of a hypothetical mildest Traumatic Brain Injury (mstTBI) that is similar to a p-zombie; 2) "What is Consciousness?" posits mild TBI (mTBI) can allow a "full" recovery, meaning we are able to isolate whether consciousness (valence) is process (synapses, representationalism) or goal (neurons, intrinsic quale) oriented; 3) "Consciousness under Duress" exploits my qualia of having a Grade 3 Diffuse Axonal Injury to discuss, with limited confidence, if severe TBI recoveries allow us to glimpse into *Consciousness* and human *Action*.
 
 :::
 

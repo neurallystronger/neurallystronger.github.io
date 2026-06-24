@@ -35,7 +35,7 @@ Perhaps you shrug off the importance of sleep: "Why? I'm not conscious during it
 **Sleep is when we recover and internalize.**  
 
 **Reframe a perfect day:**  
-*me today* = *recovery/internalization*(*me yesterday*) + *error*  
+*me\_today* = *recovery/internalization*(*me\_yesterday*) + *error*  
 *me* = *sleep*() + *error*  
 [This is very simplified.]{.small-text}
 
