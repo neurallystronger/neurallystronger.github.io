@@ -111,6 +111,6 @@ Let's open Amazon and search for "Magnesium L-Threonate". The "Overall Pick" is 
 First, 2000 mg is the capsule weight, not the amount of elemental magnesium, which is 144 mg per serving. What's a serving? One serving is *four capsules*. Meaning 1 capsule is actually 36 mg of Magnesium, and if you rely on supplementation, you need to *at least* take 8 capsules a day to try and get "400 mg" given L-Threonate crosses the Blood-Brain Barrier better. (Their "Suggested Use" is 4 capsules a day.)
 
 ::: {style="text-align: right;"}
-— dvp, 2026
+— dvp, 2026  
 [What do I know, I merely returned to 400-level math just 4 months after a DAI 3.]{.small-text}
 :::
