@@ -64,5 +64,11 @@
   },
   "creative/work2/index.qmd": {
     "index.html": "436da481"
+  },
+  "articles/article3/index.qmd": {
+    "index.html": "612fc8c9"
+  },
+  "articles/article4/index.qmd": {
+    "index.html": "e4d58368"
   }
 }

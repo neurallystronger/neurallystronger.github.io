@@ -6,7 +6,7 @@ sidebar: main-nav
 
 ___
 
-[WORK-IN-PROGRESS]{.review-what}
+[WORK-IN-PROGRESS, this is important!]{.review-what}
 
 ___
 
@@ -28,7 +28,7 @@ ___
 **Sleep is the ~33\% most similar of ALL lives.** Have you thought about it like that?  
 [What's your excuse to not have briefly contemplated the abundant academic Sleep literature in Psychiatry?]{.small-text}
 
-I suppose I did that for you. From <a href="https://scholar.google.com/citations?user=x6uUysgAAAAJ" target="_blank"><em>Tononi</em></a>, to parsing the <a href="https://www.sleep.pitt.edu/psqi" target="_blank"><em>PSQI</em></a> article, to reading all those endless college student cognitive-sleep studies. All to seek insights into **neurorehabilitation** in hopes others mimic my DAI 3 recovery success, and mine persists for decades.
+I suppose I did that for you. From <a href="https://scholar.google.com/citations?user=x6uUysgAAAAJ" target="_blank"><em>Tononi</em></a>, to parsing the <a href="https://www.sleep.pitt.edu/psqi" target="_blank"><em>PSQI</em></a> article, to reading all those endless (biased) college student cognitive-sleep studies. All to seek insights into **neurorehabilitation** in hopes others mimic my DAI 3 recovery success, and mine persists for decades.
 
 Perhaps you shrug off the importance of sleep: "Why? I'm not conscious during it anyway".  
 
@@ -58,9 +58,13 @@ And this is still a good outcome. I know many TBI survivors struggle much more, 
 
 **Precisely why the *quality* comes first.** If you are stuck not sleeping much, making sure every second you *do* get to sleep counts and contributes to your recovery/internalization is even more critical than if you are a "good sleeper" who easily racks up the hours.
 
-Extrinsic = mattress, pillow, reliance on a 
+Extrinsic = mattress, pillow, an outside supplement or a medication.
 
-Intrinsic = mind, cognition, psychology, long-term food habits
+Intrinsic = mind, cognition, psychology, long-term food habits, routines.
+
+And on "power naps" --- sleep fulfills two different functions, recovery/internalization. A power nap can be effective at immediate physical recovery; it is often inadequate at internalization.
+
+We must find the point in which we "sleep on it".
 
 ___
 

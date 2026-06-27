@@ -6,7 +6,7 @@ sidebar: main-nav
 
 ___
 
-[WORK-IN-PROGRESS]{.review-what}
+[WORK-IN-PROGRESS, this is important!]{.review-what}
 
 ___
 
