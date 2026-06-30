@@ -22,9 +22,9 @@ Administered in Harborview Medical Center 90 days after a Grade 3 DAI, a WAIS-IV
 
 I suppose I could request precise results (I have those for the RBANS but not here).
 
-Here's an interesting tidbit: I answered both *Who is Sacagawea?* and then *Who wrote Sherlock Holmes?* but next I grimaced in contemplation when asked *Who wrote Alice in Wonderland?*. Why? When I was told the correct answer, I realized what happened and explained myself to the proctor: *Lewis Caroll* (Alice in Wonderland) sounds awfully similar to *Lewis and Clark* (Sacagawea). **The brain defaults to heuristic frameworks and associations while fragmented, and those are seemingly easily entrenched.**
+Here's an interesting tidbit of three questions in a sequence during VCI discussions: *Who is Sacagawea?* (correct answer), *Who wrote Sherlock Holmes?* (correct answer), but next I grimaced in contemplation when asked *Who wrote Alice in Wonderland?*. Why? When I was told the correct answer, I realized what happened and explained myself to the proctor: *Lewis Caroll* (Alice in Wonderland) sounds awfully similar to *Lewis and Clark* (Sacagawea). **The brain defaults to heuristic frameworks and associations while fragmented, and those are seemingly easily entrenched.**
 
-WAIS-IV is an outstanding, thorough battery that tests the *Default Mode Network* moreso than the *Salience Network* and the *Central Executive Network*. Meaning, there are less incentives to be stringent about the speed of how quickly the DMN pondering transitions to the CEN output; it's the sheer volume of the testing material that psychologically and neurologically daunts the test-taker; not the quick switching between one category to another. Just the fact that there is a break in-between, is telling (*and I remember urging the Harborview staff to resume the testing and I don't need the full 30 minutes -- they did -- "I'm ok!"*). Throughout the test, I had a genuine concern of "losing my thought" --- some speed was needed lest "thought dissipation" occurs.
+WAIS-IV is an outstanding, thorough battery that tests the *Default Mode Network* moreso than the *Salience Network* and the *Central Executive Network*. Meaning, there are less incentives to be stringent about the speed of how quickly the DMN pondering transitions to the CEN output; it's the sheer volume of the testing material that psychologically and neurologically daunts the test-taker; not the quick switching between one category to another. Just the fact that there is a break in-between, is telling (*and I remember urging the Harborview staff to resume the testing and I don't need the full 30 minutes -- they did -- "I'm ok!"*). Not so OK -- throughout the test, I had a genuine concern of "losing my thought" --- some speed was needed lest "thought dissipation" occurs. I'd do qualitatively better now.
 
 ::: {.callout-tip collapse="false"}
 ## Academic Functioning:
@@ -86,7 +86,9 @@ As you can see, I randomly repeated it in April 2026, nearly 2 years after my tr
 
 Modest improvement, this remains a difficult subtest requiring rapid coordination and as my *Essay 1* tacitly digressed, "I am not instantaneous in my *GO!* signals."
 
+Though I started being able to memorize the symbols by the end. I will repeat the form C of this subtest in a couple of years.
+
 ::: {style="text-align: right;"}
 — dvp, 2026  
-[Overall I'm content. VCI Very Superior is supposed to be cool]{.small-text}
+[Overall I'm content. VCI Very Superior is supposed to be cool.]{.small-text}
 :::
