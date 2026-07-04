@@ -1,10 +1,10 @@
 ---
-title: "Rembrandt copy, 50 x 40 cm, 2022"
+title: "Rembrandt copy, 50 x 40 cm, 2021"
 title-block-style: none
 sidebar: main-nav
 ---
 
-November-December 2022, an oil painting course in community college I was taking for fun had a journal of masters' works, and I chose to copy Rembrandt's 1659 *Jacob Wrestling with the Angel*.
+November-December 2021, an oil painting course in community college I was taking for fun had a journal of masters' works, and I chose to copy Rembrandt's 1659 *Jacob Wrestling with the Angel*.
 
 - [1. Jacob Wrestling with the Angel](#rembrandt)
 - [2. Detail](#detail)
@@ -14,7 +14,7 @@ November-December 2022, an oil painting course in community college I was taking
 
 ![50 x 40 cm. I gave the painting away. This is the best picture I found.](../../assets/rembrandt2022.png){width=auto .d-block .mx-auto}
 
-I am a bit trained. I passed entrance examinations into my local Siberian Детская Художественная Школа in late 2000s, and was trained in composition, art history, and several mediums including digital. (In 2012 I left for America before we started oil.) Previously, I also was a member of a children's cartoon studio. We did alright, I was a part of a 3-student team that traveled from Siberia to a festival in Moscow when I was 9.
+I am a bit trained. I passed entrance examinations into my local Siberian Детская Художественная Школа in late 2000s, and was trained in composition, art history, and several mediums including digital. (In 2012 I left for America before we started oil.) Previously, I also was a member of a children's cartoon studio. We did alright, I was a part of a 3-student team that traveled from Siberia to a festival in Moscow (our cartoon won an air con unit ☺) when I was 9.
 
 ![Original. 137 x 116 cm.](../../assets/rembrandt1659.png){width=auto .d-block .mx-auto}
 
@@ -47,6 +47,6 @@ With 50x40 cm of space versus Rembrandt's 137x116 cm, I couldn't even begin to a
 **The ability to successfully dance between the light and the dark is probably one of the most consequential art abilities.** By controlling the tonality of color, you control the audience's perception of depth/distance. **[You create 3D in a 2D world]{.underline}.** Here's where I hurriedly end my Creative's Work 3 entry before it devolves into [longer writing](/essays/)'s thousands of words about the world's dimensionality, the darkness, the infinite, and how you humans can attempt to project back into a 5D world. (Space-Time is already 4D.)
 
 ::: {style="text-align: right;"}
--- dvp, July 2026  
+-- dvp, July 2026 (2021)  
 [Here's to art.]{.small-text}
 :::
