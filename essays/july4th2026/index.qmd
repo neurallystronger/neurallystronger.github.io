@@ -25,9 +25,7 @@ Sketching with Google Translate:
 - **Greek:** "ελευθερία" (eleftheria) both.
 - **Arabic:** "حرية" huriya / "الحرية" alhuriya.
 - **Hindi:** "स्वतंत्रता" (swatantrata) both.
-- **Chinese:** "自由" (ziyou) both.
-- **Japanese:** "自由" (jiyu) both.
-- **Korean:** "자유" (jayu) both.
+- **East Asian Languages:** "Ziyou, jiyu, jayu" both.
 
 Google Translate picks up the difference for Arabic a little, infinitesimally differentiating freedom (huriya) and liberty (alhuriya, the freedom). I have also looked at Bengali, Urdu, Swahili, Amharic, Yoruba, Malay.
 

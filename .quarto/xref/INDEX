@@ -76,5 +76,23 @@
   },
   "essays/july4th2026/index.qmd": {
     "index.html": "2f31cb0a"
+  },
+  "art/chiaroscuro/index.qmd": {
+    "index.html": "f1e0e692"
+  },
+  "art/index.qmd": {
+    "index.html": "6ca3d195"
+  },
+  "art/luna/index.qmd": {
+    "index.html": "474c32e0"
+  },
+  "art/rembrandt-chiaroscuro/index.qmd": {
+    "index.html": "36598f01"
+  },
+  "art/shadow/index.qmd": {
+    "index.html": "5034b797"
+  },
+  "art/rembrandt/index.qmd": {
+    "index.html": "39672033"
   }
 }

@@ -1,0 +1,28 @@
+---
+title: "Art"
+sidebar: main-nav
+---
+
+I am an art person.
+
+## Visual Art
+[Favorite: Isaac Levitan's *Birch Grove* (1885-1889).]{.small-text}
+
+[*Rembrandt copy*, oil on canvas](rembrandt/), November 2021  
+[*Jacob Wrestling with the Angel*]{.small-text}. 50 x 40 cm.
+
+[*On Chiaroscuro*](chiaroscuro/), 2022 \& 2026  
+[*Reflecting on Rome, Renaissance*; inserting Wittgenstein.]{.small-text}
+
+## Literary Art
+[*English* favorite: Rudyard Kipling's *If---* (1910).]{.small-text}
+
+[*Shadow*, poem](shadow/), Monday, June 21st, 2021.   
+[*I motivated the poem below*.]{.small-text} Shakespearean Sonnet, English.
+
+[*Luna*, poem](luna/), Saturday, June 26th, 2021.  
+[[My best work **EVER**]{.underline}. *It is about a sudden restraint*.]{.small-text} Translated Russian.
+
+## Performance Art
+
+[I spent ten years in community theatre as a lead actor. Mostly *verse*, e.g., Pushkin, Chekhov. I should organize something here. Stand back and stand by?]{.small-text}

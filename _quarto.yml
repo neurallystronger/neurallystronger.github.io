@@ -14,13 +14,15 @@ website:
     style: "docked"
     search: false
     contents:
-      - text: "WRITING:"
-      - text: "longer"
+      - text: "art"
+        file: art/index.qmd
+        
+      - text: "&thinsp;"
+    
+      - text: "longer writing"
         file: essays/index.qmd
-      - text: "shorter"
+      - text: "shorter writing"
         file: articles/index.qmd
-      - text: "creative"
-        file: creative/index.qmd
         
       - text: "&thinsp;"
         
