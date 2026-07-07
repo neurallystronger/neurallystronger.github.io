@@ -21,7 +21,7 @@ I am an art person.
 [*I motivated the poem below*.]{.small-text} Shakespearean Sonnet, English.
 
 [*Luna*, poem](luna/), Saturday, June 26th, 2021.  
-[[My best work **EVER**]{.underline}. *It is about a sudden restraint*.]{.small-text} Translated Russian.
+[[My best work **EVER**]{.underline}. *It is about a sudden restraint*. It is about "Toska".]{.small-text} Translated Russian.
 
 ## Performance Art
 

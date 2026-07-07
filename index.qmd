@@ -9,7 +9,7 @@ sidebar: main-nav
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-Hi! I post my art and writing into the void.
+Hi! I post my [art](/art/) and writing into the void.
 
 I'm interested in [Neuro]**philosophy**\*; my degree is in **Economics**.  
 [\* - e.g., Dopamine being a prerequisite for *Action*; also *Mind*, *Language*, *Art*.]{.small-text}

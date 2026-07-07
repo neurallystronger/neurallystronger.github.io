@@ -23,13 +23,8 @@ website:
         file: essays/index.qmd
       - text: "shorter writing"
         file: articles/index.qmd
-        
-      - text: "&thinsp;"
-        
-      - text: "academic work"
+      - text: "academic writing"
         file: academic/index.qmd
-      - text: "reviews"
-        file: reviews/index.qmd
         
       - text: "&thinsp;"
         
