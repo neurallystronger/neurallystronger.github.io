@@ -9,17 +9,17 @@ sidebar: main-nav
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-Hi! I post my [art](/art/) and writing into the void.
+Hi! I post my writing and art into the void.
 
-I'm interested in [Neuro]**philosophy**\*; my degree is in **Economics**.  
+I'm interested in **Neurophilosophy**\*; my degree is in **Economics**.  
 [\* - e.g., Dopamine being a prerequisite for *Action*; also *Mind*, *Language*, *Art*.]{.small-text}
 
-I lost 70-80 dB of my hearing when I was 10; sheared my brainstem when I was 24.  
-[[My two disabilities](/disabilities/) elaborates.]{.small-text}
+I lost 70-80 dB of my hearing when I was 10; sheared my brainstem when I was 24.
 
-[Shorter writing](/articles/) is about **neurorehabilitation**. I want to help.  
-Very relevant for: Long Covid, mild Traumatic Brain Injury / Concussion, Neurodegenerative Diseases, ABIs, Diffuse Axonal Injury.  
-SCIs, Strokes, Tumors - less confidence.
+I am a paraeducator for 18-22 y.o.'s at a school district academy.  
+[Ten students are active/documented seizure risks.]{.small-text}
+
+[Writing available should be referenced by Long Covid, mTBI, TBI, DAI, MS, PD, other brain conditions.]{.small-text}
 
 ::: {style="text-align: right;"}
 --- dvp
